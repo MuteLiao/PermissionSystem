@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace XXX.PermissionSystem.Domain.Model
 {
-    class ConcurrencySafeEntity
+    public abstract class ConcurrencySafeEntity
     {
     }
 }
