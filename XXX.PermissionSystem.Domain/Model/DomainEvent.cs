@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace XXX.PermissionSystem.Domain.Model
 {
-    public abstract class DomainEvent
+    class DomainEvent
     {
     }
 }
